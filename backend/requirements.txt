@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+pillow
+
+# ML + detection
+numpy==1.24.3
+opencv-python-headless
+scikit-learn
+torch
+torchaudio
+torchvision
+
+# Utilities
+python-dotenv
+requests
