@@ -11,3 +11,5 @@ data/
 .vscode/
 *.log
 ai-env/
+backup-repo.git/
+node_modules/
